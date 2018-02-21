@@ -1,0 +1,15 @@
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\Agenda.Pet.Dominio.dll.config
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\Agenda.Pet.Dominio.dll
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\Agenda.Pet.Dominio.pdb
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\Agenda.Pet.Comum.dll
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\Agenda.Pet.Comum.pdb
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\obj\Debug\Agenda.Pet.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\obj\Debug\Agenda.Pet.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\obj\Debug\Agenda.Pet.Dominio.dll
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\obj\Debug\Agenda.Pet.Dominio.pdb
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\obj\Debug\Agenda.Pet.Dominio.Migrations.TabelaServicos.resources
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Dominio\obj\Debug\Agenda.Pet.Dominio.csproj.GenerateResource.Cache

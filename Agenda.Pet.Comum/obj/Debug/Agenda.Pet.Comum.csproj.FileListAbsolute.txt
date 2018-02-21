@@ -1,0 +1,6 @@
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Comum\bin\Debug\Agenda.Pet.Comum.dll
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Comum\bin\Debug\Agenda.Pet.Comum.pdb
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Comum\obj\Debug\Agenda.Pet.Comum.csprojResolveAssemblyReference.cache
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Comum\obj\Debug\Agenda.Pet.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Comum\obj\Debug\Agenda.Pet.Comum.dll
+C:\Users\Laudson\Documents\Visual Studio 2017\Projects\Agenda.Pet\Agenda.Pet.Comum\obj\Debug\Agenda.Pet.Comum.pdb
